@@ -1,4 +1,4 @@
-Data Analyst
+# Data Analyst
 
 Data analyst with 5 years experience in copywriting and marketing, skilled in helping organizations create meaningful relationships with their communities. 
 
